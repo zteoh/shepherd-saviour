@@ -21,7 +21,7 @@ As a shepherd, the player is to ensure all sheeps are in the safe zone before th
 
 ## :pencil2: Grid Organisation
 
-**What is Grid Orgaisation?**
+**What is Grid Organisation?**
 Instead of moving a certain number of pixels in a certain direction, characters move in rows and cols. This means that each 'step' taken would be equal distance for each character.
 
 **Problems:**
@@ -38,7 +38,7 @@ It is a stochastic model describing a *sequence of possible events* in which the
 **What am I using Markov's Chain for?**
 Mainly the movements of the sheeps.
 
-**Explaination**
+**Explanation**
 
 The probability table I came out is shown below:
 
